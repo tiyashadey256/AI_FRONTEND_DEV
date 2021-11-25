@@ -132,8 +132,8 @@ function Login() {
             <input type="password" placeholder="Password" required onChange={(e) => setPassword(e.target.value)}/>
           </p> */}
           <p>
-            <input type="password"  id="logsign"  placeholder="Password" required onChange={(e) => setPassword(e.target.value)} />
-            <div class="hide">Please Enter minimum 8 characters</div>
+            <input type="password"   placeholder="Password" required onChange={(e) => setPassword(e.target.value)} />
+            
           </p>
 
 
