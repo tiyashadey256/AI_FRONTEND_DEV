@@ -128,6 +128,21 @@ const Ai =()=>{
             "Social Media and Social": [],
             "Innovations":[]
         }
+         "Mythological Stories":{
+        "Historical Facts":[],
+        "Mythological Facts":[],
+        "Story of the Vedas":[]  
+    }
+ "Literature":{
+     "Short Stories":[],
+     "Long Descriptive Stories":[],
+      "Autobiography":[]
+ }
+
+"Recreational":{
+    "Movies":[],
+    "Music":[]
+}
       }
       window.onload = function() {
         var subjectSel = document.getElementById("subject");
